@@ -19,9 +19,15 @@
 Run http://localhost:3000/signin
 Enter admin email and password and click signin
 
+#install monogodb
+Run mongod, mongo on your localsystem. Keep them in running state
+
 #Create Products
 Run http://localhost:3000/products
 Click create product and enter product info
+
+Create product by filling the required details.
+Now you can see products in your web app.
 
 soon it will be uploded to the heroku live server.
  
