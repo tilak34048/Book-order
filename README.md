@@ -22,4 +22,6 @@ Enter admin email and password and click signin
 #Create Products
 Run http://localhost:3000/products
 Click create product and enter product info
+
+soon it will be uploded to the heroku live server.
  
